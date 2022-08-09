@@ -1,0 +1,11 @@
+new="one two three four five six seven eight nine ten"
+print(new[-48:-45])
+print(new[-44:-41])
+print(new[-40:-35])
+print(new[-34:-30])
+print(new[-29:-25])
+print(new[-24:-21])
+print(new[-20:-15])
+print(new[-14:-9])
+print(new[-8:-4])
+print(new[-3:])
